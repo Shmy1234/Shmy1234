@@ -39,7 +39,8 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
+  <!-- Express (white) -->
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="40" alt="Express (white)"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img width="10"/>
@@ -49,7 +50,8 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <!-- GitHub (white) -->
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="GitHub (white)"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
   <img width="10"/>
@@ -62,7 +64,6 @@
 
 ### 🎓 Education
 - **University of Toronto Mississauga** — BSc, Computer Science & Mathematics  
-  _Expected Graduation: 2028_
 
 ### 🔥 GitHub Stats
 <div align="center">
@@ -73,5 +74,3 @@
 </div>
 
 ---
-
-<sub>Tip: replace <code>YOUR_GITHUB_USERNAME</code> above, and you’re set.</sub>
