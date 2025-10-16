@@ -17,6 +17,13 @@
 
 <h1 align="center">hey there 👋</h1>
 
+### 🔥 GitHub Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shmy1234&theme=dark&hide_border=false&border_radius=6" height="200" alt="GitHub streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shmy1234&show_icons=true&hide_title=true&count_private=true&hide=prs&rank_icon=percentile&theme=dark" height="160" alt="GitHub stats"/>
+</div>
+
 ### 👩‍💻 About Me
 - CS & Math undergrad @ **University of Toronto Mississauga** (’28)  
 - Interested in **algorithms, ML/AI (TensorFlow), UI/UX, debugging**  
@@ -38,7 +45,6 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img width="10"/>
-  <!-- Express (white) -->
   <img src="https://cdn.simpleicons.org/express/FFFFFF" height="40" alt="Express (white)"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
@@ -49,7 +55,6 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img width="10"/>
-  <!-- GitHub (white) -->
   <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="GitHub (white)"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
@@ -59,15 +64,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-</div>
-
-### 🎓 Education
-- **University of Toronto Mississauga** — BSc, Computer Science & Mathematics  
-  _Expected Graduation: 2028_
-
-### 🔥 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shmy1234&theme=dark&hide_border=false&border_radius=6" height="200" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shmy1234&show_icons=true&hide_title=true&count_private=true&hide=prs&rank_icon=percentile&theme=dark" height="160" alt="GitHub stats"/>
 </div>
