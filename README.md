@@ -1,89 +1,82 @@
-<!-- Profile README focused on Education + Skills only, with fun images/GIFs -->
-<!-- Tip: this README is meant for your profile repo (must be named exactly your GitHub username) -->
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-<h1 align="center">
-  Hi, I’m Sahil
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" alt="wave">
-</h1>
+###
 
-<p align="center">
-  CS & Math @ University of Toronto Mississauga (UTM) • AI/ML & Full-Stack • DSA enjoyer
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sahilregonda/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge" />
+  </a>
+</div>
 
-<p align="center">
-  <a href="mailto:sahil.regonda@mail.utoronto.ca">Email</a> ·
-  <a href="https://linkedin.com/in/sahilregonda">LinkedIn</a>
-</p>
+###
 
-<!-- fun header art -->
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="640" alt="animated code rain">
-</p>
+<div align="center">
+  <!-- Replace YOUR_GITHUB_USERNAME below -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" />
+</div>
 
----
+###
 
-## 🎓 Education
-**University of Toronto Mississauga — B.Sc. in Computer Science & Mathematics**  
-Mississauga, Ontario • <em>Expected Graduation: May 2028</em>
+<h1 align="center">hey there 👋</h1>
 
-**Relevant Coursework**  
-Data Structures & Algorithms · UX/UI · Computer Organization ·
-Object-Oriented Programming · Troubleshooting & Debugging Code
+###
 
----
+<h3 align="left">👩‍💻  About Me</h3>
 
-## 🛠️ Skills
-
-**Programming & Paradigms**  
-Python · Java (incl. basic Swing/GUI) · JavaScript/TypeScript · Functional & OOP
-
-**Web / Full-Stack**  
-HTML · CSS · Tailwind CSS · React · Next.js · Node.js · Express.js
-
-**AI / ML / Data**  
-NumPy · Pandas · TensorFlow · Classical ML & Deep Learning (basics) · Intro NLP/CV
-
-**CS Foundations**  
-Data Structures (arrays, stacks, queues, hash maps, trees) ·
-Algorithms (sorting, BFS, DFS) · Problem-solving & debugging
-
-**Tools**  
-Git · GitHub · Figma · Linux
-
-<!-- nice skill icons row (images only, no text content change) -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" title="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
+  I'm a Computer Science & Mathematics undergrad at the University of Toronto (UTM), graduating May 2028.<br><br>
+  • 🔭 Recently: Extern @ Outamation — AI-powered workflow automation (RAG, ML).<br>
+  • 📚 Coursework: Data Structures & Algorithms, OOP, Computer Organization, UI/UX, Debugging.<br>
+  • ✉️ Reach me: <a href="mailto:sahil.regonda@mail.utoronto.ca">sahil.regonda@mail.utoronto.ca</a>
 </p>
 
----
+###
 
-## 📫 Contact
-- **Email:** <a href="mailto:sahil.regonda@mail.utoronto.ca">sahil.regonda@mail.utoronto.ca</a>  
-- **LinkedIn:** <a href="https://linkedin.com/in/sahilregonda">linkedin.com/in/sahilregonda</a>
+<h3 align="left">🛠 Languages & Tools</h3>
 
-<!-- 🎉 Fun zone (purely decorative) -->
-<h3 align="center">✨ Just for fun</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="typing coder">
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="launching rocket">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="matrix code">
-  <img src="https://media.giphy.com/media/l3vR1Xf0zYlaZ7rBe/giphy.gif" width="200" alt="coffee loading">
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+</div>
 
-<!-- You can swap these GIFs for your own later; they are external links, so your repo stays light. -->
+###
+
+<h3 align="left">🔥  My Stats</h3>
+
+<div align="center">
+  <!-- Replace YOUR_GITHUB_USERNAME below -->
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub streak graph" />
+</div>
