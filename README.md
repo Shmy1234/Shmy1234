@@ -18,6 +18,17 @@
 
 <h1 align="center">hey there 👋</h1>
 
+### 🔥 GitHub Stats
+<div align="center">
+  <!-- Replace YOUR_GITHUB_USERNAME in both cards -->
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&border_radius=6" height="200" alt="GitHub streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&rank_icon=percentile&theme=dark" height="160" alt="GitHub stats"/>
+</div>
+
+### 🎓 Education
+- **University of Toronto Mississauga** — BSc, Computer Science & Mathematics  
+
 ### 👩‍💻 About Me
 - CS & Math undergrad @ **University of Toronto Mississauga** (’28)  
 - Interested in **algorithms, ML/AI (TensorFlow), UI/UX, debugging**  
@@ -60,17 +71,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-</div>
-
-### 🎓 Education
-- **University of Toronto Mississauga** — BSc, Computer Science & Mathematics  
-
-### 🔥 GitHub Stats
-<div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME in both cards -->
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&border_radius=6" height="200" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&rank_icon=percentile&theme=dark" height="160" alt="GitHub stats"/>
 </div>
 
 ---
