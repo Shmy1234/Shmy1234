@@ -18,14 +18,28 @@
 <h1 align="center">hey there 👋</h1>
 
 ### 🔥 GitHub Stats
-<div align="center">
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=shmy1234&theme=dark&hide_border=false&border_radius=6" height="200" alt="GitHub streak"/>
-  <br/>
 
-  <!-- Stats + Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shmy1234&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&disable_animations=false&rank_icon=percentile&theme=dark&hide_border=false" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shmy1234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="160" alt="Top languages"/>
+<!-- Streak (slightly smaller) -->
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=shmy1234&theme=dark&hide_border=false&border_radius=6"
+    height="150"
+    alt="GitHub streak"
+  />
+</div>
+
+<!-- Stats + Top Languages side-by-side (smaller) -->
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shmy1234&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&theme=dark&hide_border=false"
+    height="130"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=shmy1234&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=false"
+    height="130"
+    alt="Top languages"
+  />
 </div>
 
 ### 👩‍💻 About Me
@@ -72,9 +86,5 @@
 
 ---
 
-###
-
-<br clear="both">
+### 🐍 Snake Activity
 <img src="https://raw.githubusercontent.com/shmy1234/shmy1234/output/snake.svg" alt="Snake animation" />
-
-###
