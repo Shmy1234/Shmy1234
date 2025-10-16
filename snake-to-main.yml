@@ -1,0 +1,33 @@
+name: Generate Snake (commit to main)
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG to dist/
+        uses: Platane/snk@v3
+        with:
+          github_user_name: shmy1234
+          outputs: |
+            dist/snake.svg?palette=github-dark
+
+      - name: Move snake to repo root
+        run: |
+          cp dist/snake.svg snake.svg
+
+      - name: Commit snake.svg
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "snake.svg"
+          message: "chore: update snake.svg"
