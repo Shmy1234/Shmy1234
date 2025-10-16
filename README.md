@@ -72,6 +72,9 @@
 
 ---
 
-### 🐍 Snake Activity
-<!-- Make sure you enable the snake workflow (see note below) -->
+###
+
+<br clear="both">
 <img src="https://raw.githubusercontent.com/shmy1234/shmy1234/output/snake.svg" alt="Snake animation" />
+
+###
