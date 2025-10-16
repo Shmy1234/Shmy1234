@@ -18,6 +18,10 @@
 
 <h1 align="center">hey there 👋</h1>
 
+### 🎓 Education
+- **University of Toronto Mississauga** — BSc, Computer Science & Mathematics  
+  _Expected Graduation: 2028_
+
 ### 🔥 GitHub Stats
 <div align="center">
   <!-- Replace YOUR_GITHUB_USERNAME in both cards -->
@@ -25,9 +29,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&rank_icon=percentile&theme=dark" height="160" alt="GitHub stats"/>
 </div>
-
-### 🎓 Education
-- **University of Toronto Mississauga** — BSc, Computer Science & Mathematics  
 
 ### 👩‍💻 About Me
 - CS & Math undergrad @ **University of Toronto Mississauga** (’28)  
