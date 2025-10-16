@@ -12,8 +12,7 @@
 </div>
 
 <div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shmy1234.shmy1234" alt="visitor badge"/>
 </div>
 
 <h1 align="center">hey there 👋</h1>
@@ -64,13 +63,11 @@
 
 ### 🎓 Education
 - **University of Toronto Mississauga** — BSc, Computer Science & Mathematics  
+  _Expected Graduation: 2028_
 
 ### 🔥 GitHub Stats
 <div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME in both cards -->
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&border_radius=6" height="200" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=shmy1234&theme=dark&hide_border=false&border_radius=6" height="200" alt="GitHub streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&rank_icon=percentile&theme=dark" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shmy1234&show_icons=true&hide_title=true&count_private=true&hide=prs&rank_icon=percentile&theme=dark" height="160" alt="GitHub stats"/>
 </div>
-
----
