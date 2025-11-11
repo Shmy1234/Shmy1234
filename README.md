@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="./assets/github-header-banner.png"
-       alt="Hey, I am a programmer — Interested in Everything Tech" />
+  <img width="3288" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/d79f2d89-6013-480e-bc3c-d6bc73b087bd" />
 </div>
 
 <div align="center">
