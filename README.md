@@ -1,16 +1,14 @@
 <div align="center">
   <img width="3288" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/d79f2d89-6013-480e-bc3c-d6bc73b087bd" />
 </div>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/sahilregonda/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
   </a>
   <a href="mailto:sahil.regonda@mail.utoronto.ca">
     <img src="https://img.shields.io/badge/Email-sahil.regonda%40mail.utoronto.ca-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="email badge" />
   </a>
 </div>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shmy1234.shmy1234" alt="visitor badge"/>
 </div>
