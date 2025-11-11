@@ -3,10 +3,10 @@
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/sahilregonda/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="30"/>
   </a>
   <a href="mailto:sahil.regonda@mail.utoronto.ca">
-    <img src="https://img.shields.io/badge/Email-sahil.regonda%40mail.utoronto.ca-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="email badge" />
+    <img src="https://img.shields.io/badge/Email-sahil.regonda%40mail.utoronto.ca-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="email badge" />
   </a>
 </div>
 <div align="center">
@@ -15,7 +15,7 @@
 
 ### 🔥 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shmy1234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="160" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shmy1234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="640" alt="Top languages"/>
 </div>
 
 ### 👩‍💻 About Me
