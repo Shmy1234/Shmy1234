@@ -1,6 +1,8 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="waving robot gif" />
-</div>
+<p align="center">
+  <img src="assets/github-header-banner.png"
+       alt="Hey, I am a programmer — Interested in Everything Tech"
+       width="100%" />
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sahilregonda/">
@@ -14,8 +16,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shmy1234.shmy1234" alt="visitor badge"/>
 </div>
-
-<h1 align="center">hey there 👋</h1>
 
 ### 🔥 GitHub Stats
 <div align="center">
