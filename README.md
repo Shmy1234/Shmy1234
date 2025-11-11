@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="assets/github-header-banner.png"
-       alt="Hey, I am a programmer — Interested in Everything Tech"
-       width="100%" />
-</p>
+<div align="center">
+  <img src="./assets/github-header-banner.png"
+       alt="Hey, I am a programmer — Interested in Everything Tech" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sahilregonda/">
