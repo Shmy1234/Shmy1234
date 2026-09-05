@@ -10,12 +10,6 @@
 <br />
 
 <p align="center">
-  I build reliable software and ML-powered products.<br />
-  <b>Computer Science · Mathematics · Statistics</b> @ University of Toronto<br />
-  Class of 2028 &nbsp; · &nbsp; U.S. &amp; Canadian citizen
-</p>
-
-<p align="center">
   <a href="https://sahilregonda.com/"><img src="./portfolio.svg" width="156" height="46" alt="Visit my portfolio" /></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sahilregonda/"><img src="./linkedin.svg" width="156" height="46" alt="Connect on LinkedIn" /></a>
