@@ -1,0 +1,10 @@
+CYBER SIGNAL — THIRD-PARTY ARTWORK NOTICES
+
+Technology-logo silhouettes are from Simple Icons 14.9.0, https://simpleicons.org/ and https://github.com/simple-icons/simple-icons (CC0-1.0). Selected logos have been recolored and placed in original decorative frames. The Java and LinkedIn marks are from Font Awesome Free by Fonticons, Inc., https://fontawesome.com/, icons licensed CC BY 4.0: https://creativecommons.org/licenses/by/4.0/.
+
+All brand names and marks belong to their respective owners. Their inclusion identifies technologies or social links; it does not imply endorsement. Trademark rights are not granted by the icon libraries. Original geometry and animation assets were created for this profile. No font files are included.
+
+TECHNICAL REFERENCES
+https://github.com/github/markup (README HTML sanitization)
+https://developer.mozilla.org/en-US/docs/Web/SVG/Guides/SVG_as_an_image (SVG image restrictions)
+https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository (file upload)

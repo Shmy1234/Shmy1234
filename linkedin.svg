@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="196" height="58" viewBox="0 0 196 58" role="img" aria-labelledby="title desc"><title id="title">LinkedIn</title><desc id="desc">Custom Cyber Signal artwork for Sahil Regonda. Decorative motion is automatic, not mouse- or scroll-controlled. Reduced-motion mode shows a still composition.</desc><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171322"/><stop offset=".55" stop-color="#0C0C16"/><stop offset="1" stop-color="#151023"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#282137"/><stop offset=".5" stop-color="#141220"/><stop offset="1" stop-color="#1C172B"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F5DFF1"/><stop offset=".3" stop-color="#CAB4F6"/><stop offset=".6" stop-color="#6C4B9B"/><stop offset=".8" stop-color="#E2C6ED"/><stop offset="1" stop-color="#9D77D9"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#CFB5EB" stop-opacity=".7"/><stop offset=".25" stop-color="#8B70A9" stop-opacity=".25"/><stop offset=".68" stop-color="#554174" stop-opacity=".3"/><stop offset="1" stop-color="#CDAADF" stop-opacity=".7"/></linearGradient>
+<linearGradient id="name" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#F2D8E7"/><stop offset=".53" stop-color="#DBC1F1"/><stop offset="1" stop-color="#AC91E8"/></linearGradient>
+<linearGradient id="tile" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#30273F"/><stop offset=".45" stop-color="#1C1929"/><stop offset="1" stop-color="#14111F"/></linearGradient>
+<linearGradient id="icon" x1="0" y1="0" x2=".6" y2="1"><stop stop-color="#FFF3FD"/><stop offset=".6" stop-color="#DCC8F7"/><stop offset="1" stop-color="#AE8BDD"/></linearGradient>
+<linearGradient id="reflection"><stop stop-color="#FCEBFF" stop-opacity="0"/><stop offset=".5" stop-color="#FCEBFF" stop-opacity=".3"/><stop offset="1" stop-color="#FCEBFF" stop-opacity="0"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#A67BF1" stop-opacity=".2"/><stop offset="1" stop-color="#A67BF1" stop-opacity="0"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#BB80E1" stop-opacity=".25"/><stop offset=".4" stop-color="#8854C9" stop-opacity=".12"/><stop offset="1" stop-color="#7D4AB5" stop-opacity="0"/></radialGradient>
+<radialGradient id="pinkhalo"><stop stop-color="#D8AACB" stop-opacity=".18"/><stop offset="1" stop-color="#D8AACB" stop-opacity="0"/></radialGradient>
+<radialGradient id="orb"><stop stop-color="#F6D9EF" stop-opacity=".4"/><stop offset=".45" stop-color="#A875E4" stop-opacity=".12"/><stop offset="1" stop-color="#A875E4" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="8"/></filter>
+<filter id="shadow" x="-30%" y="-30%" width="170%" height="190%"><feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#000000" flood-opacity=".6"/></filter>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".65" fill="#C7ABD9" opacity=".14"/></pattern>
+<pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#D8BFF1" stroke-opacity=".022"/></pattern>
+<symbol id="linkedinmark" viewBox="0 0 448 512"><path xmlns="http://www.w3.org/2000/svg" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"/></symbol></defs><style>
+.still{display:none}.lift{animation:lift 8s ease-in-out infinite}.drift{animation:lift 11s ease-in-out infinite reverse}.pulse{animation:pulse 5s ease-in-out infinite}.wireflow{stroke-dasharray:65 780;animation:wireflow 7s linear infinite}.flow{stroke-dasharray:24 310;animation:flow 5s linear infinite}.sheen{animation:sheen 9s ease-in-out infinite}.tile{animation:tile 7s ease-in-out infinite}.scan{animation:scan 10s ease-in-out infinite}.spark{animation:spark 6s ease-in-out infinite}.spin{transform-box:fill-box;transform-origin:center;animation:spin 40s linear infinite}.reverse{animation-direction:reverse}.breathe{animation:breathe 8s ease-in-out infinite}
+@keyframes lift{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes tile{0%,15%,70%,100%{transform:translateY(0)}35%,50%{transform:translateY(-5px)}}
+@keyframes pulse{0%,100%{opacity:.32}50%{opacity:.9}}
+@keyframes flow{to{stroke-dashoffset:-334}}
+@keyframes wireflow{to{stroke-dashoffset:-845}}
+@keyframes sheen{0%,15%{transform:translateX(-440px);opacity:0}28%{opacity:.36}53%{transform:translateX(440px);opacity:0}100%{transform:translateX(440px);opacity:0}}
+@keyframes scan{0%,100%{transform:translateY(0);opacity:.15}50%{transform:translateY(290px);opacity:.35}}
+@keyframes spark{0%,100%{opacity:.15}50%{opacity:.75}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes breathe{0%,100%{opacity:.5}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.motion{display:none!important}.still{display:inline}*{animation:none!important}}
+</style><path d="M11 1H180L195 15V45L184 56H1V12Z" fill="url(#panel)" stroke="url(#edge)"/><path d="M12 2H128" stroke="#CEADD8" stroke-opacity=".7"/><path d="M184 45L178 51H140" stroke="#C4A4E1" stroke-opacity=".55"/><use xlink:href="#linkedinmark" x="18" y="20" width="17" height="17" fill="#DFC4EE"/><text x="47" y="34" fill="#F2E8F8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="500" text-anchor="start" >LinkedIn</text><text x="177" y="34" fill="#CFADD9" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="end" >↗</text></svg>

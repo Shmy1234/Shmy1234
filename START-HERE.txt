@@ -1,0 +1,19 @@
+CYBER SIGNAL — INSTALLATION
+
+Use this folder's README.md and all twelve SVG files. All thirteen files must sit directly at the top level of Shmy1234/Shmy1234. There is NO assets folder in this version.
+
+1. Unzip the download on your computer. Do not upload the ZIP.
+2. Open the extracted folder. Select README.md, all twelve .svg files, and THIRD_PARTY_NOTICES.txt — select these files, not the enclosing folder.
+3. On GitHub open Shmy1234/Shmy1234 > Add file > Upload files. Drag the selected files into the page. Existing files with the same names will be updated when you commit.
+4. Check the upload list: banner.svg, NOT assets/banner.svg or cyber-signal/banner.svg. Write 'Install Cyber Signal profile' and commit to main (or complete your normal pull-request flow).
+5. Open your profile and refresh. You do not need Actions, npm, API keys, GitHub Pages, or a local server.
+
+KEEP LOCALLY: preview.html, START-HERE.txt. You may upload them but they are not required by the profile.
+
+PREVIEW
+Open preview.html in your browser while it is still beside the SVGs. The preview uses normal <img>/<picture> elements, as the README does. No live icon CDN is needed.
+
+ANIMATION
+The crystal and rings use precomputed 3-D perspective keyframes embedded in SVG; the browser plays the vector animation. Card levitation, light sweeps and circuit traces are independent timed loops. This creates a 3-D appearance, not an interactive WebGL scene. GitHub does not give these embedded images mouse/scroll interaction. Portfolio and LinkedIn buttons are ordinary clickable links. Reduced Motion intentionally shows a still composition. Profile caching or browser settings may affect when changes become visible.
+
+If pictures are missing, confirm all twelve SVGs are beside README.md and that the README uses ./banner.svg, not ./assets/banner.svg.
