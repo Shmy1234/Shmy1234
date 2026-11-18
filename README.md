@@ -4,7 +4,7 @@
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./banner-mobile-still.svg" />
   <source media="(prefers-reduced-motion: reduce)" srcset="./banner-still.svg" />
   <source media="(max-width: 600px)" srcset="./banner-mobile.svg" />
-  <img src="./banner.svg" width="100%" alt="Sahil Regonda — Software Engineer and AI / ML Builder. Toronto, Canada." />
+  <img src="./banner.svg" width="100%" alt="Sahil — Software Engineer and AI / ML Builder. Toronto, Canada." />
 </picture>
 
 <br />
