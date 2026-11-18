@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://sahilregonda.com/"><img src="./portfolio.svg" width="156" height="46" alt="Visit my portfolio" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sahilregonda/"><img src="./linkedin.svg" width="156" height="46" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sahilrr/"><img src="./linkedin.svg" width="156" height="46" alt="Connect on LinkedIn" /></a>
 </p>
 
 <picture>
